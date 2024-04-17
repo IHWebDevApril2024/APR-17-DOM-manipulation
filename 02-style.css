@@ -1,0 +1,14 @@
+.rounded {
+  border-radius: 13px;
+}
+
+.super-height {
+  height: 100px;
+}
+
+.circle {
+  height: 10vh;
+  width: 10vh;
+  border-radius: 50%;
+  background-color: aqua;
+}
